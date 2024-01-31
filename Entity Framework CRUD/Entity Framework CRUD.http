@@ -1,0 +1,6 @@
+@Entity_Framework_CRUD_HostAddress = http://localhost:5027
+
+GET {{Entity_Framework_CRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
